@@ -1,27 +1,22 @@
 # *Big Dawg Fitness*
 ## Description/Motivation
 
-Your formally written project proposal description, and why it is useful/interesting/fun goes here. Try to be as descriptive as possible, as we will be discussing your project ideas during the brainstorming in class.
+Create an mobile app that would provide fitness tips, excercises, info about different machines and what muscles they target, provide safety instructions for when working out, provide users with a more streamlined fitness app that doesn't have pay walls, and have access to tutorials on the excercises if the user needs more instruction. It would ideally have many different screens, links to the tutorials, and a UI that is accessible for everyone.  
 
 ### Prerequisites
 
-What is likely to be needed to install and to run *YourProposedProjectName* go here. If nothing is required (i.e. it is a website), state so.
+Google Play Store
 
 ## Built With
 
-- [afreamework1](http://www.aframework1.io/): A framework that is likly to be used goes here.
-- [afreamework2](http://www.aframework2.io/): A second framework that is likly to be used goes here.
-- IDE, if applicable
+MIT App Inventor
 
 ## Author
 
 - **Zakari Jobe**: *Big Dawg Fitness* [yourLinkedIn or yourGithub profile](https://adrress)
 
 ## Acknowledgments
-
-- If you find code that you are going to use in YourProjectName, include author's name and URL here.
-- all who inspired the idea and/or the code in YourProjectName
-- other people you wish to acknowledge
+- Gavin Bailey for giving me the idea of creating a fitness app
 
 ## License (not required initially)
 

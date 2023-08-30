@@ -1,4 +1,4 @@
-# *Replace with YourProposedProposedProjectName*
+# *Big Dawg Fitness*
 ## Description/Motivation
 
 Your formally written project proposal description, and why it is useful/interesting/fun goes here. Try to be as descriptive as possible, as we will be discussing your project ideas during the brainstorming in class.
@@ -15,7 +15,7 @@ What is likely to be needed to install and to run *YourProposedProjectName* go h
 
 ## Author
 
-- **Your name**: *YourProposadProjectName* [yourLinkedIn or yourGithub profile](https://adrress)
+- **Zakari Jobe**: *Big Dawg Fitness* [yourLinkedIn or yourGithub profile](https://adrress)
 
 ## Acknowledgments
 

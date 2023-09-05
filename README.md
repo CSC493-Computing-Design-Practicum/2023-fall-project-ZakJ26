@@ -16,7 +16,7 @@ MIT App Inventor
 - **Zakari Jobe**: *Big Dawg Fitness* [yourLinkedIn or yourGithub profile](https://adrress)
 
 ## Acknowledgments
-- Gavin Bailey for giving me the idea of creating a fitness app
+- Gavin Bailey and Caedmon Brewer for giving me the idea of creating a fitness app
 
 ## License (not required initially)
 

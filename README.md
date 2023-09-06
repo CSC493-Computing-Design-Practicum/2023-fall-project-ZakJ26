@@ -5,6 +5,12 @@ Create an mobile app that would provide fitness tips, excercises, info about dif
 
 [concept.md](concept.md)
 
+### Scope
+In scope would be to contain different pages containing different instructions and information on the different excercies, hyperlinks to excercise tutorials, hyperlinks to meal recipes, feature a safety page, and ways to track progess (will update once futher along). Out-of-scope would be most likely extensive account creation system as of right now. A stakeholder could anticipate an account system in the long run as once more personalized features were implemented, it would require the storage specific to the user and not the base app that would appear everytime. 
+
+### Vision
+Providing an easy to use workout application that will be accessible to all, for free, in hopes of creating a healthy lifestyle for larger portions of society. I strive to provide accurate information, proper resources, and continued updates to ensure that the app is constantly evolving and improving over the course of the semester. 
+
 ### Prerequisites
 
 Google Play Store

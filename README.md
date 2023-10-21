@@ -3,6 +3,10 @@
 
 Create an mobile app that would provide fitness tips, excercises, info about different machines and what muscles they target, provide safety instructions for when working out, provide users with a more streamlined fitness app that doesn't have pay walls, and have access to tutorials on the excercises if the user needs more instruction. It would ideally have many different screens, links to the tutorials, and a UI that is accessible for everyone.  
 
+## Product Logo
+<img width="343" alt="Zak_TruckLOGOv2" src="https://github.com/CSC493-Computing-Design-Practicum/2023-fall-project-ZakJ26/assets/97726639/2dbd4d06-ba32-4bce-bfae-ce771715ff88">
+
+## Concept
 [concept.md](concept.md)
 
 ### Scope

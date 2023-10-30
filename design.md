@@ -1,0 +1,1 @@
+*The project is intended to be a do-it-all fitness app that is expectedly accessible for all people who excercise, as it will feature different workouts and other resources for gym and non-gym users. The essential aspects I intend to provide within the app would be to provide information to users about there workouts 

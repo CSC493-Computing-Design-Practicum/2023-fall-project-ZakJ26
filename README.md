@@ -19,6 +19,12 @@ Providing an easy to use workout application that will be accessible to all, for
 
 Google Play Store
 
+## Design
+[design.md](design.md)
+
+## Test Plan
+[test.plan.d](test.plan.md)
+
 ## Built With
 
 MIT App Inventor

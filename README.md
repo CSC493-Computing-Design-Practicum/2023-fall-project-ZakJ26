@@ -19,6 +19,9 @@ Providing an easy to use workout application that will be accessible to all, for
 
 Google Play Store
 
+## Requirements
+[requirements.md](requirements.md)
+
 ## Design
 [design.md](design.md)
 

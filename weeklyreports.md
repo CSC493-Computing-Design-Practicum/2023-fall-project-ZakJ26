@@ -17,3 +17,5 @@
 [jobez_csc493_wk9.docx](https://github.com/CSC493-Computing-Design-Practicum/2023-fall-project-ZakJ26/files/13227558/jobez_csc493_wk9.docx)
 
 [jobez_csc493_wk10.docx](https://github.com/CSC493-Computing-Design-Practicum/2023-fall-project-ZakJ26/files/13227559/jobez_csc493_wk10.docx)
+
+[jobez_csc493_wk11.docx](https://github.com/CSC493-Computing-Design-Practicum/2023-fall-project-ZakJ26/files/13322741/jobez_csc493_wk11.docx)

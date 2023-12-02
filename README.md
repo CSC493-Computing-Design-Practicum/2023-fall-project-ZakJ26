@@ -40,6 +40,9 @@ MIT App Inventor
 ## Acknowledgments
 - Gavin Bailey and Caedmon Brewer for giving me the idea of creating a fitness app
 
+## Installation
+[install.md](installation.md)
+
 ## License (not required initially)
 
 This project is licensed under the ??? License - see the wiki page (https://en.wikipedia.org/wiki/Software_license) for details

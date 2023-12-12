@@ -19,11 +19,10 @@ The expected audience would be people who workout, and the expected outcome woul
 mentioned above in a free application. 
 
 ## Challenges: 
-I expect some challenges arising, primarily in formating of the pages and correcting the layout. Also potentially some coding errors
+Some of the biggest challenges I found while working on the project came from the software I used itself. It made it uploading the different code sections more annoying and time consuming because App Inventor would not let my simply do push/pull requests on GitHub so I had to take different screenshots and type out comments in the different files describing the code and what its doing. I also had wanted to create a login system in order to create personalized experiences, however due to lack of documentation, it made it very hard and once I got it working (kind of), it would have required me to completely rearrange my pages to make the login be the first screen.
 
 ## Measures:
-I will keep this section on going as at the beginning of every week I will plan workload for the week and list it below.
-In chronological order
+As I worked through my project, I stuck pretty closely to following the future goals I laid out in my weekly reports and I used that to gauge my accomplishments over the course of the semester. 
 
 ## Motivation: 
 This porject is important to me because I enjoy working out and being healthy. It will coincide with a weight loss journey of mine
@@ -33,4 +32,5 @@ to a singular project. I hope that it will help me understand app development on
 computing design. 
 
 ## Possible Extensions:
-Creating a way to scan barcodes of food you've eaten and it track it throughout the day until its cleared
+Creating a way to scan barcodes of food you've eaten and it track it throughout the day until its cleared,
+AI integration in some form

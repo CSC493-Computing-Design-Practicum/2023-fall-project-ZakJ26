@@ -38,8 +38,13 @@ MIT App Inventor
 - ***About the Lead Developer***: My name is Zakari Jobe, I am currently a Senior Berea College Computer Science major. I come a small town named Franklin, North Carolina. My plan for after graduation is to find an entry level Software Development job to enhance my skills in order to progress in the field through other career oppourtinties. When I'm not coding, I will mostly be with my friends, playing video games, or cooking.
 
 ## Acknowledgments
+- Professors Deanna Wilborne and Jasmine Jones
+- Berea College Department of Computer and Information Science
+- MIT App Inventor 2
+- Figma
+- Canva
 - Gavin Bailey and Caedmon Brewer for giving me the idea of creating a fitness app
-
+  
 ## Installation
 [install.md](installation.md)
 

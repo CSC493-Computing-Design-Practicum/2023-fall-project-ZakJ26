@@ -48,6 +48,10 @@ MIT App Inventor
 ## Installation
 [install.md](installation.md)
 
+## Final Video
+https://www.youtube.com/watch?v=9LJz0_P2shk
+
+
 ## License (not required initially)
 
 This project is licensed under the ??? License - see the wiki page (https://en.wikipedia.org/wiki/Software_license) for details

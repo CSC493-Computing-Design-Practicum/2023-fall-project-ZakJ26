@@ -17,7 +17,7 @@ Providing an easy to use workout application that will be accessible to all, for
 
 ### Prerequisites
 
-Google Play Store
+Google Account for MIT App Inventor 2 access, the MIT AI2 companion app on your mobile device
 
 ## Requirements
 [requirements.md](requirements.md)
